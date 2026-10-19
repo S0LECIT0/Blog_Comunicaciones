@@ -10,7 +10,7 @@ Esta versión optimizada del blog presenta el contenido formativo de manera conc
 - **Lectura ágil:** Párrafos cortos de 2 a 4 líneas centrados en las ideas clave.
 - **Evidencias en formato ficha:** Se presentan los resúmenes y competencias de los trabajos realizados por los integrantes en tarjetas académicas limpias (sin enlaces ni incrustaciones de archivos PDF).
 - **Bibliografía y Cibergrafía formal:** Sección dedicada en el pie de página con referencias bibliográficas y fuentes digitales en formato estándar (APA / institucional).
-- **Paleta oficial SENA:** Azul cielo (`#87CEEB`), verde menta suave (`#EAF4F4`), beige claro (`#F5F0E8`), blanco (`#FFFFFF`) y azul grisáceo oscuro (`#29465B`).
+- **Paleta oficial:** Azul cielo (`#87CEEB`), verde menta suave (`#EAF4F4`), beige claro (`#F5F0E8`), blanco (`#FFFFFF`) y azul grisáceo oscuro (`#29465B`).
 
 ---
 
@@ -38,8 +38,6 @@ Blog_La-comunicacion-es-clave/
 │   └── styles.css               # Estilos modernos y responsivos
 ├── js/
 │   └── script.js                # Menú móvil accesible, desplazamiento suave y scrollspy
-├── assets/
-│   └── img/                     # Espacio para recursos gráficos
 └── README.md                    # Documentación técnica y pedagógica
 ```
 
